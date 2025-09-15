@@ -24,6 +24,10 @@ bin/
 
 ### VS Code ###
 .vscode/
+.idea/
 
 ### Mac OS ###
 .DS_Store
+
+
+lab2-branching-and-merging.iml
